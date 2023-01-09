@@ -4,10 +4,11 @@ using System;
 
 public class UnitTest1
 {
-    private const string Expected = "Hello Welcome to the DevOps World everyone!!";
+    private const string Expected = "Hello everyone, Welcome  to the DevOps World everyone!!";
     [TestMethod]
     public void TestMethod1()
     {
+
         using (var sw = new StringWriter())
         {
             Console.SetOut(sw);
