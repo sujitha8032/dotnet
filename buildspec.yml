@@ -1,0 +1,22 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo Installing dependencies...
+      - dotnet restore
+
+  build:
+    commands:
+      - echo Building application...
+      - dotnet build --configuration Release
+
+  post_build:
+    commands:
+      - echo Creating deployment package...
+      - dotnet publish --configuration Release --output ./publish
+
+artifacts:
+  type: zip
+  files:
+    - 'publish/**/*'
