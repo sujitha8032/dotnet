@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8ScYPiVMvzjK6NoT+FbdBnJKQZQ1S4AJApdZ5mhVQf3FnYucLhSy/dtlFBkmkRd79uhj04yZvFODJiu495PAQ==",
+  "dgSpecHash": "XdWDyDdA0IeoQRK3VfubVCwyhqVfolEa7GKuRCBF48weZAxLDkRMAgUgvcqlG+9jm1HH2nYtj3OMUXPse226bg==",
   "success": true,
-  "projectFilePath": "S:\\.NET Projects\\ConsoleApp2\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "S:\\.NET Projects\\may 2023\\myprojects\\sample-dotnet-app-jenkins-pipeline\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suman\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\suman\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
@@ -91,7 +91,10 @@
     "C:\\Users\\suman\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\suman\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\suman\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\suman\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\suman\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

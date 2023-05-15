@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+zJHR9MGF+mfrHaAOkstzy/8+9vmeq+U7RnLrxKA1rQ/oKAJ+IaleeHxuecyYiGqX1RM9e9rt9cx2yP76OYTcQ==",
+  "dgSpecHash": "bKC7Tlkj5CaG5nqFKYOKHiyygx/q53jIKfk+GQBCWouvjBYvGnaXrCtHb5JBZVwGUatGfl4ubT5JMhLHMbWi0g==",
   "success": true,
-  "projectFilePath": "S:\\.NET Projects\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "S:\\.NET Projects\\may 2023\\myprojects\\sample-dotnet-app-jenkins-pipeline\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

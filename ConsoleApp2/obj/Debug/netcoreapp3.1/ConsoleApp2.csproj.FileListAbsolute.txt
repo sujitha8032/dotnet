@@ -12,3 +12,16 @@ S:\.NET Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csp
 S:\.NET Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
 S:\.NET Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
 S:\.NET Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+S:\.NET Projects\may 2023\myprojects\sample-dotnet-app-jenkins-pipeline\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
